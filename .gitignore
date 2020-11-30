@@ -1,0 +1,11 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+.vscode/*
+
+# project temporary files
+
+model_save/*
+outputs/*
