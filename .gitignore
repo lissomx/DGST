@@ -9,3 +9,6 @@ __pycache__/
 
 model_save/*
 outputs/*
+
+!model_save/README.md
+!outputs/README.md
